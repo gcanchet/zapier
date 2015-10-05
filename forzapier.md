@@ -9,10 +9,13 @@ most excite
 <li>Help train and onboard new support teammates - M
 <li>Work with the product team to develop a new feature based on feedback from customers - M
 </ol>
-
+<br/>
 least excite
-Dig through activity logs to troubleshoot a customer's broken Zap - L
-Help resolve billing issues for customers over the phone - L
-Run ticket review sessions to make sure tone is consistent across Zapier responses - L
-Engage multiple users at once via chat to answer their questions and troubleshoot problems - L
-Manage a support team - L
+<br/>
+<ol>
+<li>Dig through activity logs to troubleshoot a customer's broken Zap - L
+<li>Help resolve billing issues for customers over the phone - L
+<li>Run ticket review sessions to make sure tone is consistent across Zapier responses - L
+<li>Engage multiple users at once via chat to answer their questions and troubleshoot problems - L
+<li>Manage a support team - L
+</ol>
